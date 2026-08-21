@@ -94,4 +94,4 @@ while True:
    guardar_tareas
   print('saliendo del programa')
   break
-#---Siempre se van a guardar las tareas siempre que se modifique la lista y se use la funcion guardar_tareas
+#---Siempre se van a guardar las tareas siempre que se modifique la lista y se use la funcion guardar_tareas---
