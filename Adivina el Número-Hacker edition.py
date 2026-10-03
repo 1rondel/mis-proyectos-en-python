@@ -27,7 +27,7 @@ def guess_number():
     guess = False
     
     while not guess:
-        user = input("guess a number between 1 and 100:  ")
+        user = input("Guess a number between 1 and 100: ")
         try:
             user = int(user)
             attempts += 1
@@ -37,11 +37,11 @@ def guess_number():
             
             elif user < number_to_guess:
                 print("ACCESS DENIED: The number is higher.")
-                attempts += 1
+                
             elif user > number_to_guess:
                 print("ACCESS DENIED: The number is lower.")
-                attempts += 1
-            if attempts == 10:
+                
+            if attempts >= 10:
                 print(f"ACCESS DENIED too many attempts: {attempts}. The number was {number_to_guess}.")
                 guess = True
                 break
