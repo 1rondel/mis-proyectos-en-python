@@ -15,6 +15,3 @@ Este repositorio ahora funciona como índice de mis proyectos. Los ejemplos y su
 
 Los proyectos son educativos y algunos siguen en progreso. Consulta el README de cada repositorio para ver requisitos y limitaciones.
 
-## Nota sobre historial
-
-Los archivos retirados de la vista actual pueden permanecer en el historial de Git. Si un archivo publicado antes contenía contraseñas o credenciales reales, cámbialas.
