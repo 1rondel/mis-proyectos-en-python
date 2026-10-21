@@ -15,4 +15,4 @@ Este repositorio ahora funciona como índice de mis proyectos. Los ejemplos y su
 
 Los proyectos son educativos y algunos siguen en progreso. Consulta el README de cada repositorio para ver requisitos y limitaciones.
 
-IMPORTANTE---- RECORDAR DAR CREDITOS DE AUTORIA SI SE VA A USAR ESTE CODIGO PARA ALGO O SI NO ME DAS 600 usd por dia que pase en el que no me des autoria XDDD
+IMPORTANTE---- RECORDAR DAR CREDITOS DE AUTORIA SI SE VA A USAR ESTE CODIGO 
