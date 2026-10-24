@@ -12,6 +12,7 @@ Este repositorio ahora funciona como índice de mis proyectos. Los ejemplos y su
 | [Generador y analizador de contraseñas](https://github.com/1rondel/generador-analizador-contrasenas) | Ejercicio educativo sobre contraseñas. |
 | [Control de acceso](https://github.com/1rondel/control-de-acceso-python) | Ejercicios de acceso e invitados. |
 | [Ejercicios de Python](https://github.com/1rondel/ejercicios-python) | Prácticas de fundamentos, archivos, requests, hilos y hashing. |
+| [FileGuard](https://github.com/1rondel/FileGuard-HMAC)|Proyecto educativo en Python para aprender a detectar cambios en un archivo mediante HMAC-SHA-256.|
 
 Los proyectos son educativos y algunos siguen en progreso. Consulta el README de cada repositorio para ver requisitos y limitaciones.
 
